@@ -1,0 +1,1 @@
+<properties>\n    <java.version>25</java.version>\n    <maven.compiler.source>25</maven.compiler.source>\n    <maven.compiler.target>25</maven.compiler.target>\n</properties>\n
